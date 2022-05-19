@@ -29,8 +29,8 @@ También se pueden descargar directamente e instalarlas en Arduino IDE desde Pro
 
 Una vez descargadas las librerías hay que renombrarlas antes de añadirlas al Arduino IDE, de la siguiente manera:
 
-Adafruit-GFX-Library-master -> Adafruit-GFX
-Adafruit_SH1106-master -> Adafruit_SH1106
+- Adafruit-GFX-Library-master -> Adafruit-GFX
+- Adafruit_SH1106-master -> Adafruit_SH1106
 
 ## Observaciones
 
