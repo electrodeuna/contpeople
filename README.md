@@ -34,4 +34,4 @@ Una vez descargadas las librerías hay que renombrarlas antes de añadirlas al A
 
 ## Observaciones
 
-El código se puede utilizar en otro Arduino (por ejemplo, Arduino Uno). También se puede reemplazar la pantalla oled por otra similar, por ejemplo, Pantalla oled 0.96", en este caso hay que incluir otra libreria para que funcione (Adafruit_SSD1306).
+El código se puede utilizar con otro Arduino (por ejemplo, Arduino Uno). También se puede reemplazar la pantalla oled por otra similar, por ejemplo, Pantalla oled 0.96", en este caso hay que incluir otra libreria para que funcione (Adafruit_SSD1306).
